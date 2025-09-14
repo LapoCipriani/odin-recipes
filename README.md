@@ -4,7 +4,7 @@
 
 This project is the first project in The Odin Project portfolio (https://www.theodinproject.com/lessons/foundations-recipes). It's a simple landing page with links to three of my favourite recipes. The images are free and the text is taken from the sources written below. In this file you can also find the links to the images' source.
 By completing this project, I hope I will demonstrate my current skills about basic HTML: the boilerplate, the "head" section, headings and paragraphs, images, lists.
-English is not my mothertongue.
+
 
 ## Lasagne Verdi alla Bolognese
 
@@ -18,7 +18,7 @@ Image source: [freepik](https://it.freepik.com/foto-gratuito/gustosi-torroni-su-
 
 Recipe source: [Allrecipes](https://www.allrecipes.com/recipe/238521/basic-seitan-wheat-meat-vegan-meat-substitute/)
 
-## Tiramisu
+## Tiramis&ugrave;
 
 Image source: [freepik](https://it.freepik.com/foto-gratuito/vista-frontale-del-delizioso-concetto-di-tiramisu_11240336.htm#fromView=keyword&page=1&position=0&uuid=5845415d-35c6-46e9-b8c2-9f3d31706da4&query=Tiramisu)
 
