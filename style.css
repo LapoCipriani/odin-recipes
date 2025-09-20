@@ -27,6 +27,11 @@ ul, ol {
   padding: 2px;
 }
 
+.menu li {
+  font-size: 1.333rem;
+  margin: 0.5rem;
+}
+
 .container {
     margin: 1rem 25%;
     background-color: greenyellow;
