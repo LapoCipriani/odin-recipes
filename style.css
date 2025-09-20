@@ -21,7 +21,10 @@ ul, ol {
 }
 
 #home {
-  font-size:3vw;
+  font-size: 2.60vw;
+  margin: 10px;
+  padding: 2px;
+  border: 2px dotted purple;
 }
 
 .container {
