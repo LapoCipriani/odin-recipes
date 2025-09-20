@@ -17,30 +17,31 @@ p, li {
 }
 
 .lista {
-    margin: 1rem 10%;
+    margin: 1rem 5%;
 }
 
 #home {
   font-size:3vw;
 }
 
-.quattroterzi {
+.container {
     margin: 1rem 25%;
     background-color: greenyellow;
-    height: 100%; 
-    padding: 1rem auto;   
+    height: auto; 
+    padding: 1rem;   
 }
-.quattroterzi h1 {
+
+h1 {
   font-size: 2.368rem;
   text-align: center;
 }
 
-.quattroterzi h2 {
+h2 {
   font-size: 1.777rem;
   text-align: center;
 }
 
-.quattroterzi h3 {
+h3 {
   font-size: 1.333rem;
   text-align: center;
 }
