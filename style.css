@@ -18,6 +18,7 @@ p, li {
 
 ul, ol {
     margin: 1rem 5%;
+    list-style-position: inside;
 }
 
 #home {
